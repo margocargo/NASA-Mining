@@ -15,6 +15,6 @@ Exemples de services web / APIs ([ici](https://api.nasa.gov/index.html)) :
 
 Afin d'encourager l'utilisation de ces données, la société américaine a initié de nombreux événements créatifs à travers le monde sous le mot d'ordre ["Explore With Us"](https://open.nasa.gov/explore/). En avril dernier 25 "SpaceApps challenges" ont permis de créer 949 applications basées sur les données et les APIs de la NASA.
 
-Nous vous proposons de répondre à ce challenge en concevant une application permettant d'explorer des données de votre choix. L'objectif de votre application est offrir un regard nouveau, pertinent, et étonnant sur ces données en jouant sur un certain nombre de principes d'exploration : filtres, tris, croisements, jeux d'échelle, variables, etc.
+Nous vous proposons de répondre à ce challenge en concevant une application permettant d'explorer des données de votre choix. L'objectif de votre application est d'offrir un regard nouveau, pertinent, et étonnant sur ces données en jouant sur un certain nombre de principes d'exploration : filtres, tris, croisements, jeux d'échelle, variables, etc.
 
 Après une rapide phase de conception (sketching - wireframing), vos applications seront prototypées en HTML/CSS + JS, et publiées dans ce repo GitHub. Vous utiliserez ProcessingJS pour la partie visualisation (ou une autre librairie plus adaptée).
